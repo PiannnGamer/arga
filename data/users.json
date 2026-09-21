@@ -1,0 +1,10 @@
+[
+  {
+    "id": "user_demo_123",
+    "name": "Arga Mahasiswa",
+    "email": "demo@belajar.com",
+    "passwordHash": "$2b$10$O85BkkEpUlEnN5nZWOdfle8TrGWZnH.64L1fbmXzsPQzbWoqL75FO",
+    "createdAt": "2026-09-09T01:58:59.286Z",
+    "updatedAt": "2026-09-09T01:58:59.286Z"
+  }
+]
